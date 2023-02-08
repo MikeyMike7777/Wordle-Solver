@@ -1,7 +1,7 @@
 /*
  Author: Michael Mathews
  Project: Wordle Solver
- Description: Need help with your wordle? This will help.
+ Description: Helps you solve wordles
  */
 
 #include <iostream>
